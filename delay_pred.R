@@ -2,6 +2,7 @@
 
 library(docval)
 library(doMC)
+library(hgu133plus2hsentrezg.db)
 
 load("predictor/pam.intext.042013.Rdata") # load the shipping delay predictor
 
